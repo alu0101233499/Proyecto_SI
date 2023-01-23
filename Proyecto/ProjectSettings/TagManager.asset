@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - Spawn
+  - Pared
+  - Pruebas
+  - Pasillo
+  - Entrada
+  - Puerta
+  - Spike
+  - SingleSpike
+  - Coin
+  - Group
+  - Poison
+  - Maze
+  - Camino
+  - Salida
+  - Tienda
+  - ParedTienda
+  - "L\xEDmites"
+  - Interfaz
+  - Pantalla
+  - Pintura
+  - "Se\xF1uelo"
+  - Rojo
+  - HabilidadesDesbloqueadas
+  - Botiquin
+  - Techo
+  - Plataformas
+  - Selection
+  - SelectionWall
+  - Bombs
+  - EntradaTesting
+  - Luces
+  - "Compa\xF1ero"
+  - Torreta
+  - Enemigo
+  - Ready
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
